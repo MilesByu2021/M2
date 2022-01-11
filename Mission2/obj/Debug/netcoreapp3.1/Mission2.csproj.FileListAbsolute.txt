@@ -1,0 +1,40 @@
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.deps.json
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.json
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.dev.json
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.dll
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.pdb
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.AssemblyReference.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfoInputs.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfo.cs
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CoreCompileInputs.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.MvcApplicationPartsAssemblyInfo.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.Manifest.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.xml
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission2.styles.css
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cache
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.dll
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.pdb
+/Users/milesleung/Desktop/IS 413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.genruntimeconfig.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.deps.json
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.json
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.runtimeconfig.dev.json
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.dll
+/Users/milesleung/Desktop/413/Mission2/Mission2/bin/Debug/netcoreapp3.1/Mission2.pdb
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.AssemblyReference.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfoInputs.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.AssemblyInfo.cs
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.csproj.CoreCompileInputs.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.MvcApplicationPartsAssemblyInfo.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.Manifest.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/staticwebassets/Mission2.StaticWebAssets.xml
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/scopedcss/bundle/Mission2.styles.css
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.RazorTargetAssemblyInfo.cache
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.dll
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.pdb
+/Users/milesleung/Desktop/413/Mission2/Mission2/obj/Debug/netcoreapp3.1/Mission2.genruntimeconfig.cache
